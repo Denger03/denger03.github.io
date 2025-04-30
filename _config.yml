@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Nothing"
 url: "https://denger03.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "" # you code repository
+github_repo: "https://github.com/Denger03" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
