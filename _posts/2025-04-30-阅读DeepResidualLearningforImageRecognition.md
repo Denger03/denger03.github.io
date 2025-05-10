@@ -8,6 +8,9 @@ header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - resnet
+    - AI
+    - 深度学习
+    - 论文阅读
 ---
 
 ## Deep Residual Learning for Image Recognition(2015)
@@ -18,7 +21,7 @@ tags:								#标签
 
 由此提出resnet，**通过显式引入残差连接，帮助网络学习“更容易”的函数**，从而**解决深层网络的退化问题**。 
 
-![1746756059164](C:\Users\DZH\Desktop\code\blog\denger03.github.io\_posts\assets\1746756059164.png)
+![1746756059164](.\assets\1746756059164.png)
 
 **优化器只需学习这小的偏差 F(x)，比直接学习整个 H(x)会更容易收敛。 **
 
